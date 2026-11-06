@@ -1,6 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>Zap-O-Bar</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Fri, 06 Nov 2026 10:41:23 +0100</pubDate>
+            <link>https://www.appnoe.de/apps.html#zap-o-bar</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Added</h3>
+<ul>
+<li>First release: the values of your Netatmo weather stations, air quality monitors and heated rooms in the menu bar, each with its course over the last 24 hours. Click a bar to see its value.</li>
+<li>Available in the Mac App Store and as a download from appnoe.de or with Homebrew. The downloaded version updates itself (Settings › General › Updates).</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>The 24-hour course no longer stays a single bar when loading the history failed once.</li>
+</ul>
+]]></description>
+            <description xml:lang="de"><![CDATA[
+<h3>Neu</h3>
+<ul>
+<li>Erste Version: die Werte deiner Netatmo-Wetterstationen, Raumluftsensoren und beheizten Räume in der Menüleiste, jeweils mit dem Verlauf der letzten 24 Stunden. Ein Klick auf einen Balken zeigt seinen Wert.</li>
+<li>Erhältlich im Mac App Store und zum Laden von appnoe.de oder mit Homebrew. Die geladene Version aktualisiert sich selbst (Einstellungen › Allgemein › Updates).</li>
+</ul>
+<h3>Behoben</h3>
+<ul>
+<li>Der 24-Stunden-Verlauf bleibt nicht mehr bei einem einzelnen Balken stehen, wenn das Laden des Verlaufs einmal fehlgeschlagen ist.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/appnoe/homebrew-zap-o-bar/releases/download/v1.0.1/Zap-O-Bar-1.0.1.dmg" length="2285992" type="application/octet-stream" sparkle:edSignature="TIoFSbzSjvO4HeNN/OSR1L0vbZ45t2x++0FptoT0MMicAKPyfIQ55A0+FL9SVmerS+qua8d7Zds/SeSaTE8EBg=="/>
+        </item>
     </channel>
 </rss>
