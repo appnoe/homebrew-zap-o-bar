@@ -3,6 +3,26 @@
     <channel>
         <title>Zap-O-Bar</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Fri, 06 Nov 2026 11:38:47 +0100</pubDate>
+            <link>https://www.appnoe.de/apps.html#zap-o-bar</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Changed</h3>
+<ul>
+<li>Temperature bars are coloured by their value on a fixed scale, as on weather maps: blue when freezing, green when comfortable, red when hot.</li>
+</ul>
+]]></description>
+            <description xml:lang="de"><![CDATA[
+<h3>Geändert</h3>
+<ul>
+<li>Die Temperaturbalken sind nach ihrem Wert auf einer festen Skala eingefärbt, wie auf Wetterkarten: Blau bei Frost, Grün im angenehmen Bereich, Rot bei Hitze.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/appnoe/homebrew-zap-o-bar/releases/download/v1.1.0/Zap-O-Bar-1.1.0.dmg" length="2273031" type="application/octet-stream" sparkle:edSignature="CRNuWuSLyQXUJa/VTNzEyD081iaytl0jvCwW7Rd03lQtceVJnB+8T+4Fg0Vq6GjiK1LWuGa+jNsenSUtIFrDDw=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Fri, 06 Nov 2026 10:41:23 +0100</pubDate>
             <link>https://www.appnoe.de/apps.html#zap-o-bar</link>

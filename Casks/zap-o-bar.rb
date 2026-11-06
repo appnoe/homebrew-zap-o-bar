@@ -1,6 +1,6 @@
 cask "zap-o-bar" do
-  version "1.0.1"
-  sha256 "3023b26394c4cf383fa995a1b9d239e4176440f11080bb47494a11081cb000d8"
+  version "1.1.0"
+  sha256 "e7f0881e378e53a42cc997455893c4669509191faf8f14edafdd18043642b82f"
 
   url "https://github.com/appnoe/homebrew-zap-o-bar/releases/download/v#{version}/Zap-O-Bar-#{version}.dmg"
   name "Zap-O-Bar"
